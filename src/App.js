@@ -1,5 +1,5 @@
 import './App.css';
-import  profile from './profile.jpg';
+import  profile from './images/profile.jpg'
 import Skills from "./Skills";
 function App() {
   return (    

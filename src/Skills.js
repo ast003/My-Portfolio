@@ -1,5 +1,5 @@
 import Skill from './Skill';
-import c from './c.jpg';
+import c from './images/c.jpg;
 function Skills() {
     return (
         <div className="skills">
