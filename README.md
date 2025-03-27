@@ -28,7 +28,7 @@ Ensure you have the following installed:
 ### Setup Instructions
 #### 1. Clone the Repository:
 ```sh
-git clone https://github.com/kmohan321/Music_Gen.git
+git clone https://github.com/roboclub-mnnit/AI_Music_Generator-2024-2025-Project
 cd Music_Gen
 ```
 
@@ -87,9 +87,9 @@ This project is licensed under the **MIT License**.
 - **Contributors:**
   - **Krishna Mohan**  
     [LinkedIn](https://www.linkedin.com/in/samudraneel-sarkar) | [GitHub](https://github.com/kmohan321) 
-  - **Guransh Goyal**  
+  - **Aditya Sahani**  
     [LinkedIn](https://www.linkedin.com/in/guransh-goyal) | [GitHub](https://github.com/Aditya-en) 
-  - **Yash Kesarwani**  
+  - **Pallavi Chahar**  
     [LinkedIn](https://www.linkedin.com/in/yash-keswani-856b45293) | [GitHub](https://github.com/yashkeswani29-cpu) 
 
 
