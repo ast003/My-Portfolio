@@ -81,10 +81,17 @@ Frontend is available at **http://localhost:5173**.
 ## License
 This project is licensed under the **MIT License**.
 
+
 ## Acknowledgments
-- **TensorFlow & Keras** for deep learning capabilities.
-- **Fluidsynth & FFmpeg** for audio processing.
-- **FastAPI & React** for a seamless user experience.
+
+- **Contributors:**
+  - **Krishna Mohan**  
+    [LinkedIn](https://www.linkedin.com/in/samudraneel-sarkar) | [GitHub](https://github.com/kmohan321) 
+  - **Guransh Goyal**  
+    [LinkedIn](https://www.linkedin.com/in/guransh-goyal) | [GitHub](https://github.com/Aditya-en) 
+  - **Yash Kesarwani**  
+    [LinkedIn](https://www.linkedin.com/in/yash-keswani-856b45293) | [GitHub](https://github.com/yashkeswani29-cpu) 
+
 
 🎵 *Enjoy AI-powered music generation!* 🎵
 
